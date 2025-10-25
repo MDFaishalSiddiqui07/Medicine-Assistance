@@ -1,0 +1,5 @@
+{
+  "name": "Medi-Scribe AI Assistant",
+  "description": "An AI-powered assistant to get information about medicines from Hinglish names, generate medical illustrations, and create informational videos from images.",
+  "requestFramePermissions": []
+}
